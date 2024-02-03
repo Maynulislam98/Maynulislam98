@@ -20,7 +20,7 @@ Academic Qualification
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 🌱 I’m currently learning **Frameworks**
 
-⚡Crafting digital landscapes with lines of code,turning imagination into innovation.Coding dreams into reality,one line at a time⚡
+⚡Crafting digital landscapes with lines of code,turning imagination into   innovation.Coding dreams into reality,one line at a time⚡
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
