@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md.Maynul Islam Moin</h1>
-<h3 align="left">I am a highly motivated Computer Science and Engineering graduate from Bangladesh Army University of Science and Technology (BAUST), Saidpur. My passion lies in software engineering, and I am eager to contribute to innovative projects while continuously learning and growing in this dynamic field.</h3>
+<h3 align="left">I am a highly motivated Computer Science and Engineering graduate from Bangladesh Army University of Science and Technology (BAUST), Saidpur.My passion lies in software engineering, and I am eager to contribute to innovative projects while continuously learning and growing in this dynamic field.</h3>
 <h4>
 About Me
  
@@ -18,7 +18,7 @@ Academic Qualification
 🎓 Secondary School Education: Bir Uttam Shahid Shamad High School (2016)
 </h4>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
-- 🌱 I’m currently learning **Frameworks**
+🌱 I’m currently learning **Frameworks**
 
 ⚡Crafting digital landscapes with lines of code,turning imagination into innovation.Coding dreams into reality, one line at a time⚡
  
