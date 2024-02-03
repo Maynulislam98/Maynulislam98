@@ -3,12 +3,18 @@
 <h3>
 About Me
  
-🏠 Location: Rangpur, Bangladesh
+🏠 Location: Rangpur, Bangladesh.
+
 📧 Primary Email: maynulislammoin578@gmail.com
+
 💼 Preferred Job Category: Engineer
+
 Academic Qualification
+
 🎓 Bachelor's Degree: B.Sc in Computer Science and Engineering from BAUST, Saidpur (2023)
+
 🎓 Higher Secondary Education: Collectorate School and College (2018)
+
 🎓 Secondary School Education: Bir Uttam Shahid Shamad High School (2016)
 </h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
