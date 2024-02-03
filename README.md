@@ -2,6 +2,7 @@
 <h3 align="left">I am a highly motivated Computer Science and Engineering graduate from Bangladesh Army University of Science and Technology (BAUST), Saidpur. My passion lies in software engineering, and I am eager to contribute to innovative projects while continuously learning and growing in this dynamic field.</h3>
 <h3>
 About Me
+ 
 🏠 Location: Rangpur, Bangladesh
 📧 Primary Email: maynulislammoin578@gmail.com
 💼 Preferred Job Category: Engineer
