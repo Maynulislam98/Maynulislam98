@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md.Maynul Islam Moin</h1>
-<h3 align="left">I am a highly motivated Computer Science and Engineering graduate from Bangladesh Army University of Science and Technology (BAUST), Saidpur.My passion lies in software engineering, and I am eager to contribute to innovative projects while continuously learning and growing in this dynamic field.</h3>
+<h3 align="left">I'm a highly driven graduate of computer science and engineering.Software engineering is my passion, and I'm looking forward to contribute to innovative projects while always learning and developing in this exciting industry.</h3>
 <h4>
 About Me
 
